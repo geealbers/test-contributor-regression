@@ -9,8 +9,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
-url: 'test-contributor-regression'
+# url: 'http://localhost:8080'
+url: https://geealbers.github.io/test-contributor-regression/
 
 # ------------------------------------------------------------------------------
 # Title & Description
