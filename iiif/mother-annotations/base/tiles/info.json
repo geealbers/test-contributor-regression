@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://geealbers.github.io/test-contributor-regression/iiif/mother-annotations/base/tiles",
+  "@id": "http://test-contributor-regression.geealbers.net/iiif/mother-annotations/base/tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {

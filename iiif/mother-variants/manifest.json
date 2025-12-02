@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://geealbers.github.io/test-contributor-regression/iiif/mother-variants/manifest.json",
+  "id": "http://test-contributor-regression.geealbers.net/iiif/mother-variants/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,25 +9,25 @@
   },
   "items": [
     {
-      "id": "https://geealbers.github.io/test-contributor-regression/iiif/mother-variants/canvas",
+      "id": "http://test-contributor-regression.geealbers.net/iiif/mother-variants/canvas",
       "type": "Canvas",
       "height": 1012,
       "width": 1012,
       "items": [
         {
-          "id": "https://geealbers.github.io/test-contributor-regression/iiif/mother-variants/canvas/annotation-page",
+          "id": "http://test-contributor-regression.geealbers.net/iiif/mother-variants/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://geealbers.github.io/test-contributor-regression/iiif/mother-variants/canvas/choices",
+              "id": "http://test-contributor-regression.geealbers.net/iiif/mother-variants/canvas/choices",
               "motivation": "painting",
-              "target": "https://geealbers.github.io/test-contributor-regression/iiif/mother-variants/canvas",
+              "target": "http://test-contributor-regression.geealbers.net/iiif/mother-variants/canvas",
               "type": "Annotation",
               "body": {
                 "type": "Choice",
                 "items": [
                   {
-                    "id": "https://geealbers.github.io/test-contributor-regression/iiif/mother-variants/lange-mother-b.jpg",
+                    "id": "http://test-contributor-regression.geealbers.net/iiif/mother-variants/lange-mother-b.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 1012,
@@ -39,7 +39,7 @@
                     }
                   },
                   {
-                    "id": "https://geealbers.github.io/test-contributor-regression/iiif/mother-variants/lange-mother-c.jpg",
+                    "id": "http://test-contributor-regression.geealbers.net/iiif/mother-variants/lange-mother-c.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 1012,
