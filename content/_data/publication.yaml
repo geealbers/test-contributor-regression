@@ -10,6 +10,7 @@
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
 url: 'http://localhost:8080'
+url: 'test-contributor-regression'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -55,6 +56,24 @@ contributor:
     bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
     url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
     image: contributors/judith-keller.jpg
+  - id: galbers
+    type: primary
+    first_name: Greg
+    last_name: Albers
+    title: Digital Publications Manager
+    affiliation: J. Paul Getty Trust
+    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    url: https://geealbers.net/
+    image: contributors/2270.jpg
+  - id: ecdunigan
+    type: primary
+    first_name: Erin Cecele
+    last_name: Dunigan
+    title: Community Manager
+    affiliation: J. Paul Getty Trust
+    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    url: https://www.linkedin.com/in/erin-cecele-dunigan-2947204/
+    image: contributors/2443.jpg
 
 # ------------------------------------------------------------------------------
 # Copright & License

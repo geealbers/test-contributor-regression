@@ -4,7 +4,21 @@ subtitle: A Tale of Two Photographers
 layout: splash
 order: 10
 image: figures/lange-house.jpg
+contributor:
+  - first_name: Anna
+    last_name: Artist
+    title: Consultant
+    affiliation: Statler, Waldorf, and Dunn
+    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    url: https://google.com
+    image: contributors/2492.jpg
+  - id: ecdunigan
+  - first_name: James
+    last_name: Painter
+    bio: "Intro ..."
 ---
+
+{% contributors context=pageContributors format='bio' %}
 
 Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
 
